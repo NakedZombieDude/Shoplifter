@@ -4,5 +4,5 @@
     "mvc": "1.0",
     "name": "view_follow_player_state",
     "IsCompatibility": false,
-    "IsDnD": true
+    "IsDnD": false
 }

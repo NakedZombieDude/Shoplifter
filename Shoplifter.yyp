@@ -873,44 +873,6 @@
                 "resourcePath": "scripts\\view_follow_player_state\\view_follow_player_state.yy",
                 "resourceType": "GMScript"
             }
-        },
-        {
-            "Key": "c2bce4b4-49be-4481-9905-8caa268b84b8",
-            "Value": {
-                "id": "3b532bc1-eea7-4abe-8bf2-907c8938b242",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "scripts\\instance_create\\instance_create.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
-            "Key": "9852f0f3-8396-45be-b1a6-397a719f8a81",
-            "Value": {
-                "id": "8efe229e-ba72-4c33-bbf2-e63e32a34d7d",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "scripts\\object_get_depth\\object_get_depth.yy",
-                "resourceType": "GMScript"
-            }
         }
     ],
     "room_order": [
@@ -923,9 +885,7 @@
         "4a971c4f-dbbe-49a4-8360-ef17427d9c3c",
         "4cba2a5e-16b4-49cc-a52e-3d364963b988",
         "17d2bc11-4e83-4ab7-93b6-6e1f68191e40",
-        "5752ecf8-cec0-45b6-8d7f-51d55479a25f",
-        "c2bce4b4-49be-4481-9905-8caa268b84b8",
-        "9852f0f3-8396-45be-b1a6-397a719f8a81"
+        "5752ecf8-cec0-45b6-8d7f-51d55479a25f"
     ],
     "tutorial": ""
 }
